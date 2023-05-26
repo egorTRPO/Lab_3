@@ -24,5 +24,13 @@
     <string name="learn_kotlin">Изучение Kotlin</string>
     <string name="coroutines">Корутины в Kotlin</string>
     <string name="covers">Обложки книг</string>
+    <string name="rowScreen">Контейнер Row</string>
+    <string name="myColumn">Контейнер Column</string>
+    <string name="myBox">Контейнер Box</string>
+    <string name="mySurface">Контейнер Surface</string>
+    <string name="myScaffold">Контейнер Scaffold</string>
+    <string name="Kroll">Прокрутка</string>
+    <string name="List">List</string>
     <string name="grid_icon">Grid</string>
+    <string name="Grid">Grid</string>
 </resources>
