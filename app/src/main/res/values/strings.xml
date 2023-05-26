@@ -24,4 +24,5 @@
     <string name="learn_kotlin">Изучение Kotlin</string>
     <string name="coroutines">Корутины в Kotlin</string>
     <string name="covers">Обложки книг</string>
+    <string name="grid_icon">Grid</string>
 </resources>
