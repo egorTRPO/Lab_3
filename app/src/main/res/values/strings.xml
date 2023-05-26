@@ -16,4 +16,8 @@
     <string name="second">Второй</string>
     <string name="third">Третий</string>
     <string name="menu">Menu</string>
+    <string name="android">Android</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="swift">Swift</string>
+    <string name="ios">iOS</string>
 </resources>
