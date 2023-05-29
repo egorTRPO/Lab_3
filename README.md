@@ -16,4 +16,8 @@
 - Предъявить работу преподавателю: 
     - Запущенное приложение либо в эмуляторе, либо на телефоне;
     - Удаленный репозиторий в GitHub с историей изменений (commit) `(если истории фиксации изменений не будет - это будет приравниваться к невыполнению задания)`.
+
+Решение - 
+В пакете screens создаем файлы из задание, содержимое тоже берем из задания. Дополяняем функцию FundamentalsApp, класс screen дополняем объектами, открываем ScrollingScreen.kt, изменяем добавляем содержимое в функцию MyScrollingScreen(), внутри
+MyScrollingScreen() заменяем Column на Row и verticalScroll на horizontalScroll, в ListsScreen.kt, в MyList() добавляем код и включаем необходимые импорты из пакета androidx.compose.material для компоновки Text и androidx.compose.foundation для других компоновок, изменяем функцию GridView, RowItem, GridIcon и файл strings.xml
     
